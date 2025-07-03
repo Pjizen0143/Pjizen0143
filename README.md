@@ -5,7 +5,7 @@ Student of Rangsit University
 -----------------------------
 
 * ✉️  You can contact me at [parabolic0143@gmail.com](mailto:parabolic0143@gmail.com)
-* 🧠  I'm learning Python , C , C#, SQL
+* 🧠  I'm learning Python , C , C++, Flutter
 * ⚡  <3
 
 ### Skills
